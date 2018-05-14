@@ -1,0 +1,19 @@
+{
+  "name": "first-lines-theocib",
+  "version": "1.0.0",
+  "description": "tp1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/first-lines-TheoCib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/first-lines-TheoCib/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/first-lines-TheoCib#readme"
+}
